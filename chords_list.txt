@@ -1,0 +1,36 @@
+C	C	Dm	Em	F	G	Am	Bmb5
+C#	C#	D#m	E#m	F#	G#	A#m	B#mb5
+Db	Db	Ebm	Fm	Gb	Ab	Bbm	Cmb5
+D	D	Em	F#m	G	A	Bm	C#mb5
+Eb	Eb	Fm	Gm	Ab	Bb	Cm	Dmb5
+E	E	F#m	G#m	A	B	C#m	D#mb5
+F	F	Gm	Am	Bb	C	Dm	Emb5
+F#	F#	G#m	A#m	B	C#	D#m	E#mb5
+Gb	Gb	Abm	Bbm	Cb	Db	Ebm	Fmb5
+G	G	Am	Bm	C	D	Em	F#mb5
+Ab	Ab	Bbm	Cm	Db	Ebm	Fm	Gmb5
+A	A	Bm	C#m	D	E	F#m	G#mb5
+Bb	Bb	Cm	Dm	Eb	F	Gm	Amb5
+B	B	C#m	D#m	E	F#	G#m	A#mb5
+Am	Am	Bmb5	C	Dm	Em	F	G
+A#m	A#m	B#mb5	C#	D#m	E#m	F#	G#
+Bbm	Bbm	Cmb5	Db	Ebm	Fm	Gb	Ab
+Bm	Bm	C#mb5	D	Em	F#m	G	A
+Cm	Cm	Dmb5	Eb	Fm	Gm	Ab	Bb
+C#m	C#m	Dmb5	E	F#m	G#m	A	B
+Dm	Dm	Emb5	F	Gm	Am	Bb	C
+D#m	D#m	E#mb5	F#	G#m	A#m	B	C#
+Ebm	Ebm	Fmb5	Gb	Abm	Bbm	Cb	Db
+Em	Em	F#mb5	G	Am	Bm	C	D
+Fm	Fm	Gmb5	Ab	Bbm	Cm	Db	Ebm
+F#m	F#m	G#mb5	A	Bm	C#m	D	E
+Gm	Gm	Amb5	Bb	Cm	Dm	Eb	F
+G#m	G#m	A#mb5	B	C#	D#	E	F#
+A   Amaj7   A7  Am  Am7
+B   Bmaj7   B7  Bm  Bm7
+C   Cmaj7   C7  Cm  Cm7
+D   Dmaj7   D7  Dm  Dm7
+E   Emaj7   E7  Em  Em7
+F   Fmaj7   F7  Fm  Fm7
+G   Gmaj7   G7  Gm  Gm7
+Cadd9   G6  Asus4   Gsus4
