@@ -20,11 +20,12 @@ class OutputMode(Enum):
     SONGBOOK = 6
 
 
-MODE = OutputMode.CHO_PDF
-TITLE = "Winter"
-ARTIST = "Joshua Radin"
-CAPO = 4
+MODE = OutputMode.SONGBOOK
+TITLE = "Viertel vor Sieben"
+ARTIST = "Reinhard May"
+CAPO = None
 COLUMNS = 2
+TEXTSIZE = 10
 
 INPUT_FILE = "plain_text.txt"
 OUTPUT_DIR = "D:\\Dropbox\\ChordPro"
@@ -45,6 +46,8 @@ def main():
         # add title and subtitle
         res = f"{{title: {ARTIST} - {TITLE}}}\r\n"
         res += f"{{columns: {COLUMNS}}}\r\n"
+        if TEXTSIZE is not None:
+            res += f"{{textsize: {TEXTSIZE}}}\r\n"
         if CAPO is not None:
             res += f"{{subtitle: Capo: {CAPO}}}\r\n"
         res += "\n"
@@ -253,10 +256,6 @@ def get_cho(plain_text):
         if plain_text[i] == "\n":
             res += "\r\n"
             i += 1
-            continue
-
-        if plain_text[i] == "//":
-            res += "{column_break}"
             continue
 
         if is_chords_text_pair(plain_text, i):
